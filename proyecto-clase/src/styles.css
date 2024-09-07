@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+td{
+    background-color: var(--color3);
+}
+div{
+    background-color: var(--colores-dlv-general);
+    width: var(--ancho-div-general);
+    margin: var(--)
+}

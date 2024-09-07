@@ -1,0 +1,22 @@
+.mitexto{
+    color: blue;
+    font-size: lrem;
+    font-family: Nerko One;
+    
+}
+.lista{
+    
+    color: black;
+    background-color: yellow;
+
+}
+td{
+    color: black;
+    background-color:aqua;
+}
+th{
+    background-color: red;
+    color: white;
+}
+
+
